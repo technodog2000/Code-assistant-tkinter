@@ -7,7 +7,7 @@ from art import *
 
 Font_tuple = ("Sans Serif", 20, "bold")
 
-openai.api_key = "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"
+openai.api_key = "{your api key here}"
 
 def compute():
     text = input_text.get()
