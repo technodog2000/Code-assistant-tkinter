@@ -14,3 +14,4 @@ I have included basic code highlighting in responses, using the following code:
         else:
             output_text.insert(tk.END, line + "\n")
  ```
+as well as a few other bits to make it work. Check main.py file for full info
